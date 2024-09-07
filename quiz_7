@@ -1,0 +1,9 @@
+Managing Complexity: As software grows, maintaining code readability and scalability becomes challenging.
+
+Solution: Use modular design, adhere to coding standards, and employ design patterns.
+Dealing with Unclear Requirements: Ambiguities in requirements can lead to rework and project delays.
+
+Solution: Engage in continuous communication with stakeholders and use Agile methodologies for iterative development.
+Time Constraints: Deadlines can lead to rushed work and technical debt.
+
+Solution: Prioritize tasks, automate repetitive processes, and manage time effectively using tools like Trello or Jira.
